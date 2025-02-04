@@ -185,6 +185,8 @@
     <Content Include="Images\tes2.jpg" />
     <Content Include="Images\tes3.jpg" />
     <Content Include="Images\white-logo.png" />
+    <Content Include="New Admin.aspx" />
+    <Content Include="Reply To User Message.aspx" />
     <Content Include="Scripts\Home.js" />
     <Content Include="Scripts\SearchBook.js" />
     <Content Include="Styles\Home.css" />
@@ -254,7 +256,21 @@
     <Compile Include="Home.aspx.designer.cs">
       <DependentUpon>Home.aspx</DependentUpon>
     </Compile>
+    <Compile Include="New Admin.aspx.cs">
+      <DependentUpon>New Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="New Admin.aspx.designer.cs">
+      <DependentUpon>New Admin.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reply To User Message.aspx.cs">
+      <DependentUpon>Reply To User Message.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reply To User Message.aspx.designer.cs">
+      <DependentUpon>Reply To User Message.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Users\loginPage.aspx.cs">
       <DependentUpon>loginPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

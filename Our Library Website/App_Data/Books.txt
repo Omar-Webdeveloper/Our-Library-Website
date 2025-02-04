@@ -1,8 +1,8 @@
-﻿1,The Lord of the Rings,J.R.R. Tolkien,Fantasy,Reserved
+1,The Lord of the Rings,J.R.R. Tolkien,Fantasy,Reserved
 2,Pride and Prejudice,Jane Austen,Romance,Reserved
 3,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,Reserved
 4,To Kill a Mockingbird,Harper Lee,Fiction,Reserved
-5,1984,George Orwell,Dystopian,Available
+5,1984,George Orwell,Dystopian,Reserved
 6,The Great Gatsby,F. Scott Fitzgerald,Classic,Reserved
 7,And Then There Were None,Agatha Christie,Mystery,Reserved
 8,The Catcher in the Rye,J.D. Salinger,Coming-of-age,Reserved
@@ -16,7 +16,7 @@
 15,The Shining,Stephen King,Horror,Reserved
 16,The Handmaid's Tale,Margaret Atwood,Dystopian,Reserved
 17,The Odyssey,Homer,Epic Poetry,Reserved
-18,Little Women,Louisa May Alcott,Classic,Available
+18,Little Women,Louisa May Alcott,Classic,Reserved
 19,The Count of Monte Cristo,Alexandre Dumas,Adventure,Reserved
 20,The Secret Garden,Frances Hodgson Burnett,Children's Literature,Reserved
 21,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,Reserved

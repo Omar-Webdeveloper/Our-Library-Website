@@ -73,16 +73,16 @@
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav ms-auto" id="navLinks" runat="server">
                             <li class="nav-item">
-                                <a class="nav-link under" href="Home.aspx">Home</a>
+                                <a class="nav-link under" href="Home.aspx" runat="server" >Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link under" href="#">About</a>
+                                <a class="nav-link under" href="About.aspx" runat="server" >About</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link under" href="#">Services</a>
+                                <a class="nav-link under" href="#borrow"  runat="server" >Services</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link under" href="Contact.aspx">Contact</a>
+                                <a class="nav-link under" href="Contact.aspx" runat="server" >Contact</a>
                             </li>
 
                             <li class="nav-item">
@@ -169,7 +169,7 @@
                                 <ul class='page'>
                                     <li></li>
                                     <li>
-                                        <a class="btn" href="#">Read More</a>
+                                        <a class="btn" href="About.aspx">Read More</a>
                                     </li>
                                     <li></li>
                                     <li></li>
